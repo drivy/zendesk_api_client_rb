@@ -1,5 +1,6 @@
 require 'zendesk_api/resource'
 require 'zendesk_api/resources'
+require 'zendesk_api/resources_helpcenter'
 
 module ZendeskAPI
   # Represents a collection of resources. Lazily loaded, resources aren't
